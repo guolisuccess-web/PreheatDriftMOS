@@ -34,7 +34,7 @@ Matlab
 GasDetect
 Note: Ensure that the raw data path inside GasDetect.m points to the correct location where you unzipped the dataset.
 
-## 📊 Dataset Availability
+📊 Dataset Availability
 The raw experimental data used in this study, including the full conductance profiles for different preheating times, is hosted on IEEE DataPort.
 
 Dataset Name: MOS Gas Sensor Responses under Sinusoidal Temperature Modulation with Multiple Preheating Durations
@@ -43,7 +43,7 @@ Access Link: Click here to view on IEEE DataPort (https://ieee-dataport.org/docu
 
 The .mat folder in this repository contains pre-processed feature matrices to facilitate quick reproduction of the results without re-processing the raw signals.
 
-## 📝 Citation
+📝 Citation
 If you use this code or the dataset in your research, please cite our paper:
 
 Plain Text:
@@ -51,7 +51,7 @@ Plain Text:
 [Lihua Guo,Zhengqiao Zhao,Jingdong Chen,Jacob Benesty]. "A Phase-Based Feature for Gas Detection Under Unstable Preheating Condition for E-Noses." IEEE SPL, under review.
 
 
-## 📧 Contact
+📧 Contact
 For questions regarding the code or dataset, please open an issue in this repository or contact the author directly:
 
 Email: [guolihua@mail.nwpu.edu.cn]
